@@ -216,20 +216,17 @@ Includes date-range filters, category filters, Plotly interactivity, cached load
 
 # 📸 Screenshots
 
-### 1. Overview Dashboard
-<img width="900" alt="Overview Dashboard" src="screenshots/overview_dashboard.png" />
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.png)
+![](8.png)
+![](9.png)
+![](10.png)
 
-### 2. Sales Analytics
-<img width="900" alt="Sales Analytics" src="screenshots/sales_analytics.png" />
-
-### 3. Product Insights
-<img width="900" alt="Product Insights" src="screenshots/product_insights.png" />
-
-### 4. Customer Insights
-<img width="900" alt="Customer Insights" src="screenshots/customer_insights.png" />
-
-### 5. Order Status Distribution
-<img width="900" alt="Order Status Distribution" src="screenshots/order_status.png" />
 
 ---
 
